@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
 @dataclass
-class Villagers:
+class Villager:
     id: str
     name: str
